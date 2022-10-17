@@ -2,4 +2,5 @@
 
 ## List
 - PHP MVC
+- JQuery
 - Bootstrap
