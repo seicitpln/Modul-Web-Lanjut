@@ -4,3 +4,4 @@
 - PHP MVC
 - JQuery
 - Bootstrap
+- Laravel
